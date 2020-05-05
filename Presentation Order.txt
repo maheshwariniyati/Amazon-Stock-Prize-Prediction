@@ -1,0 +1,8 @@
+Introduction - Hetashavi
+Return Model - luvesh
+Kalman Modification - Hetashavi
+Pricing model and trading startegy - Niyati
+Bollinger Band - Sushant
+RSI and MACD - Ravina
+Risk managment - Hetashavi
+
